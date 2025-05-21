@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*This is HUNTER-XMD! \ud83d\udc4b\ud83c\udffb* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/ObedTech004/Hunter-Xmd\n\n> © Powered BY ObedTechX \ud83d\udda4`;
+  let up = `*This is HUNTER-XMD! \ud83d\udc4b\ud83c\udffb* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Obedweb/Hunter-Xmd1\n\n> © Powered BY ObedTechX \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/ggnnes.jpg` }, caption: up })
   }
   })
