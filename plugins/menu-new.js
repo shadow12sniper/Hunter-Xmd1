@@ -17,29 +17,31 @@ cmd({
         
         const menuCaption = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
 ┃★╭──────────────
-┃★│ 👑 Owner : *${config.OWNER_NAME}*
-┃★│ 🤖 Baileys : *Multi Device*
-┃★│ 💻 Type : *NodeJs*
-┃★│ 🚀 Platform : *Heroku*
-┃★│ ⚙️ Mode : *[${config.MODE}]*
-┃★│ 🔣 Prefix : *[${config.PREFIX}]*
-┃★│ 🏷️ Version : *5.5𝒐𝒃𝒆𝒅𝑿 *
-┃★│ 📚 Commands : *${totalCommands}*
+┃★│  Owner : *${config.OWNER_NAME}*
+┃★│  Baileys : *Multi Device*
+┃★│  Type : *NodeJs*
+┃★│  Platform : *Heroku*
+┃★│  Mode : *[${config.MODE}]*
+┃★│  Prefix : *[${config.PREFIX}]*
+┃★│  Version : *5.5𝒐𝒃𝒆𝒅𝑿 *
+┃★│  Commands : *${totalCommands}*
 ┃★╰──────────────
+*⚙️ Master the Bot with These Essential Commands ⚙️*
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈│1️⃣  📥 *Download Menu*
-┃◈│2️⃣  👥 *Group Menu*
-┃◈│3️⃣  😄 *Fun Menu*
-┃◈│4️⃣  👑 *Owner Menu*
-┃◈│5️⃣  🤖 *AI Menu*
-┃◈│6️⃣  🎎 *Anime Menu*
-┃◈│7️⃣  🔄 *Convert Menu*
-┃◈│8️⃣  📌 *Other Menu*
-┃◈│9️⃣  💞 *Reactions Menu*
-┃◈│🔟  🏠 *Main Menu*
+┃◈│1️⃣   *Download Menu*
+┃◈│2️⃣   *Group Menu*
+┃◈│3️⃣   *Fun Menu*
+┃◈│4️⃣   *Owner Menu*
+┃◈│5️⃣   *AI Menu*
+┃◈│6️⃣   *Anime Menu*
+┃◈│7️⃣   *Convert Menu*
+┃◈│8️⃣   *Other Menu*
+┃◈│9️⃣   *Reactions Menu*
+┃◈│🔟   *Main Menu*
 ┃◈╰───────────┈⊷
+made by 🄾🄱🄴🄳 🅃🄴🄲🄷💟
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
 
