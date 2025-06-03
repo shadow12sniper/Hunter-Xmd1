@@ -17,7 +17,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 🚀 *${config.BOT_NAME}* 〕━━┈⊷
+        let dec = `╭━━〔 💫 *${config.BOT_NAME}* 〕━━┈⊷
 ┃◈╭─────────────────·๏
 ┃◈┃• 👑 Owner : *${config.OWNER_NAME}*
 ┃◈┃• ⚙️ Prefix : *[${config.PREFIX}]*
@@ -25,6 +25,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 📦 Version : *4.0.0*
 ┃◈┃• ⏱️ Runtime : *${runtime(process.uptime())}*
 ┃◈╰─────────────────┈⊷
+*⚙️ Master the Bot with These Essential Commands ⚙️*
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
 ╭━━〔 📥 *DOWNLOAD MENU* 〕━━┈⊷
@@ -340,20 +341,21 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 🔍 yts
 ┃◈┃• 📹 ytv
 ┃◈╰─────────────────┈⊷
+made by 🄾🄱🄴🄳 🅃🄴🄲🄷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/7zfdcq.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/mdn0ez.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363391979107532@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
