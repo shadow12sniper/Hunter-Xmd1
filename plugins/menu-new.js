@@ -8,7 +8,7 @@ cmd({
     pattern: "menu",
     desc: "Show interactive menu system",
     category: "menu",
-    react: "🧾",
+    react: "⚡",
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
@@ -23,7 +23,7 @@ cmd({
 ┃★│ 🚀 Platform : *Heroku*
 ┃★│ ⚙️ Mode : *[${config.MODE}]*
 ┃★│ 🔣 Prefix : *[${config.PREFIX}]*
-┃★│ 🏷️ Version : *5.0.0 Bᴇᴛᴀ*
+┃★│ 🏷️ Version : *5.5𝒐𝒃𝒆𝒅𝑿 *
 ┃★│ 📚 Commands : *${totalCommands}*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
@@ -48,7 +48,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363354023106228@newsletter',
+                newsletterJid: '120363391979107532@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
