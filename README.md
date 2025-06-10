@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/github/watchers/Obedweb/Hunter-Xmd1?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
   </a>
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=HUNTER-XMD-V5.0" alt="Typing SVG" /></a>
   </p>
 
 <div align="center">
