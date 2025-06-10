@@ -25,7 +25,7 @@
   <img src="https://files.catbox.moe/mdn0ez.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
-_MUSIC,SESSION,DEPLOYING,CHANNEL AND OWNER WEB_
+**PAIR WEB
 
 <a href='https://hunter-xmd-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
                                                             
